@@ -3,7 +3,7 @@
 #include <WiFiClient.h>
 #include <Arduino_JSON.h>
 
-const char* ssid = "DEVESH";
+const char* ssid = "devesh";
 const char* password = "@sh12420379";
 
 //Your Domain name with URL path or IP address with path
